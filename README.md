@@ -49,9 +49,8 @@ EcoClean/
    npm install
    
 3. **Configure o banco de dados MySQL:**
-Crie um banco de dados chamado ecoclean.
-
-Execute o script database.sql para criar as tabelas necessárias.
+- Crie um banco de dados chamado ecoclean.
+- Execute o script database.sql para criar as tabelas necessárias.
 
 4. **Atualize as credenciais de acesso ao banco:**
 
